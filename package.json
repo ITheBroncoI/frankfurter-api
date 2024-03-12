@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "sequelize": "^6.37.1"
+  },
+  "name": "frankfurter-api",
+  "version": "1.0.0",
+  "description": "API basada en Frankfurter",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "frankfurter",
+    "nodeJS"
+  ],
+  "author": "David Ochoa",
+  "license": "ISC"
+}
